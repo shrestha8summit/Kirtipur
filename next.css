@@ -1,0 +1,115 @@
+html{
+	margin: 20px 20px;
+	text-decoration-color: red;
+	border: 2px double;
+	border-color: white;
+	text-align: justify;
+}
+.text{
+	size: "20";
+}
+.list{
+	color: white;
+	list-style: none;
+}
+ 
+ .list-item{
+ 	font-size: 20px;
+ 	list-style: 20px;
+ 	float: right;
+ 	margin: 15px;
+ 	display: inline-block;
+ }
+
+.image{
+	float: left;
+	display:inline-block;
+}
+
+.link{
+	text-decoration: none;
+	color: grey;
+	font-size:25px;
+}
+
+.link:hover{
+	text-decoration: none;
+	color: red;
+    font-size: 27px;
+    border-radius: 2px;
+    background-color: #00ff00;
+
+}
+
+.text{
+	margin: 40px;
+	font-size: 25px;
+}
+
+#table{
+	border-color: green;
+	margin: 10px;
+	float: left;
+
+}
+
+#program{
+	border-color: green;
+	margin: 10px;
+	float: right;
+}
+
+.bla{
+	text-align: justify;
+	font-size: 25px;
+}
+
+.top{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+.top:hover{
+      color:#blue;
+      font-size: 25px;
+      background-color:#blue; 
+}
+
+.marquee{
+	text-decoration:none;
+	color:white;
+	font-size: 20px;
+	text-shadow: -1px 2px 0;
+	margin: 20px;	 
+	font-size: 25px;          
+}
+
+.up{
+	align-items: center;
+	margin: 20px;
+}
+#up:hover{
+	border-color: blue;
+background-color:#00FF33;
+border-radius: 20px;
+text-align: center;
+margin-bottom: 20px;
+scroll-behavior: smooth 2s;
+}
+
+#alphabets{
+	margin: 40px;
+	border:2px double;
+	padding: 20px;
+	font-size: 25px;
+
+}
+
+.img{
+	
+	margin-left:20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	padding: 50px;
+}

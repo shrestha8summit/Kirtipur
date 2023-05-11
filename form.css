@@ -1,0 +1,27 @@
+html{
+	margin: 40px;
+font-size: 25px;
+color: white;
+padding: 20px;
+}
+
+.wrapper{
+	border: 2px double;
+	padding: 20px;
+	border-radius:14px;
+}
+
+.form-group{
+	border-radius: 20px;
+	padding: 14px;
+	font-size: 30px;
+}
+
+.register:hover{
+box-shadow: 20px;
+font-size: 26px;
+}
+
+.name{
+	border-radius: 20px;
+}

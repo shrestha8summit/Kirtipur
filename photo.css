@@ -1,0 +1,52 @@
+html{
+	margin: 20px 20px;
+	text-decoration-color: red;
+	border: 10px double;
+	border-color: white;
+}
+
+body{
+	border:20px;
+}
+
+.text{
+	border: 20px;
+	margin: 20px;
+}
+
+.image{
+height: auto;
+	width: auto;
+	margin-left: 9px;
+}
+
+.image-part1{
+	margin-left: 20px;
+	align-self: center;
+}
+
+.image-part2{
+	margin-left: 250px;
+	align-self: left;
+	margin-right: 20px;
+}
+
+.image-part3{
+	margin-left: 200px;
+	align-self: center;
+}
+
+.image-part4{
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+.image-part5{
+	margin-right: 40px;
+	float: right;
+	margin-top: 10px;
+}
+
+.image-part6{
+	
+}
